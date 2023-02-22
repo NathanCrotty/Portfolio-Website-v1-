@@ -169,6 +169,7 @@ section {
 }
 .project-tile > p {
   opacity: var(--description);
+  isolation: isolate;
   border-radius: 50px;
   position: relative;
   z-index: 2;
