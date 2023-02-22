@@ -169,6 +169,7 @@ section {
 }
 .project-tile > p {
   opacity: var(--description);
+  border-radius: 50px;
   position: relative;
   z-index: 2;
   transition: opacity 300ms;
