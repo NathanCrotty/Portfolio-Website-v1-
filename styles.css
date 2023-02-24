@@ -156,6 +156,7 @@ section {
   border-radius: 50px;
   overflow: hidden;
   color: white;
+  isolation: isolate;
 }
 .project-tile:hover {
   --description: 1;
